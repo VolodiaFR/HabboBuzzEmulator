@@ -1,4 +1,4 @@
-# Arcturus Morningstar #
+# HabboBuzz Emulator #
 
 ## What is Arcturus Morningstar? ##
 Arcturus Morningstar is the community project for the Arcturus Emulator by TheGeneral.
