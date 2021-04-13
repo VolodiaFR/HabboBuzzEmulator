@@ -1,6 +1,6 @@
 # HabboBuzz Emulator #
 
-## What is Arcturus Morningstar? ##
+## C'est quoi ? ##
 Arcturus Morningstar is the community project for the Arcturus Emulator by TheGeneral.
 
 The community project was made because the Arcturus Emulator has been abandoned by TheGeneral with lack of updates, an intent to monetize the project, and make the project private.
