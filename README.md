@@ -1,14 +1,10 @@
 # HabboBuzz Emulator #
 
 ## C'est quoi ? ##
-Arcturus Morningstar is the community project for the Arcturus Emulator by TheGeneral.
-
-The community project was made because the Arcturus Emulator has been abandoned by TheGeneral with lack of updates, an intent to monetize the project, and make the project private.
-
-TheGeneral's own words were "dont like it then dont use it". We did not like what he was doing, so we made our own version.
+HabboBuzz Emulator is the community project for the Habbo Community by Volodia SOUIHI
 
 ## License ##
-Arcturus Morningstar is released under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
+HabboBuzz Emulator is released under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ## Versions ##
 [![image](https://img.shields.io/badge/VERSION-3.0.0-success.svg?style=for-the-badge&logo=appveyor)](#)
@@ -24,6 +20,7 @@ You can report problems via the Issue Tracker at https://git.krews.org/morningst
 When making an bug report or a feature request use the template we provide so that it can be categorized correctly and we have more information to replicate a bug or implement a feature correctly.
 
 ## Credits ##
+- Volodia SOUIHI (Mercury)
 - TheGeneral
 - Beny
 - Alejandro
@@ -55,10 +52,6 @@ When making an bug report or a feature request use the template we provide so th
 - SenpaiDipper
 - Snaiker
 - Thijmen
-
-
-## Discord ##
-Join us on Discord at https://discord.gg/BzfFsTp
 
 ## Contributing ##
 Anyone is allowed to fork the project and make pull requests. We make no guarantee that pull requests will be approved into the project.
